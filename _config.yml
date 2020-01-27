@@ -21,7 +21,7 @@ resume_contact_telephone:       "false"
 resume_contact_address:         "Woodbridge, Virginia (relocating to Chicago, IL in April 2020)"
 
 resume_header_contact_info:     "Woodbridge, Virginia (relocating to Chicago, IL in April 2020) • dumais.julia@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "yes"
 
 resume_header_intro: "<p>An experienced web professional, skilled at content management and front-end development. Deep knowledge of HTML, CSS, and JavaScript, and experience with Drupal 8, Wordpress, and Sitecore.</p>"
 
